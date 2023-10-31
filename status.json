@@ -1,0 +1,21 @@
+Request:
+{
+  "context": {
+    "domain": "ONDC:RET10",
+    "action": "status",
+    "core_version": "1.2.0",
+    "bap_id": "preprod.easypay.co.in",
+    "bap_uri": "https://preprod.easypay.co.in/ecommerce/ondc/buyer/",
+    "bpp_id": "preprod-wiggles.humbhionline.in",
+    "bpp_uri": "https://preprod-wiggles.humbhionline.in/bpp",
+    "transaction_id": "EASPY-ONDC-1698748215470-1222121022322222",
+    "message_id": "EASPY-ONDC-1698747494682-0130231334908330",
+    "city": "std:080",
+    "country": "IND",
+    "timestamp": "2023-10-31T16:02:44.113Z",
+    "ttl": "PT30M"
+  },
+  "message": {
+    "order_id": "EASPY-ONDC-1698748351752-2303301030110322"
+  }
+}
